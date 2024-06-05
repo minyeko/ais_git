@@ -1,5 +1,4 @@
 # Data Analysis Tool
-
 A Python application for performing data analysis on CSV files. This tool allows you to clean, process, and visualize data with ease.
 
 ## Table of Contents
